@@ -1,1 +1,2 @@
-test testing again 
+git config user.name "aftabjan"
+git config user.name
